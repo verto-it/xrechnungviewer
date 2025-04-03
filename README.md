@@ -1,4 +1,4 @@
-This Tool originated under OpnForge and was moved to Verto-It (https://verto-it.com/)
+This Tool originated under OpnForge and was moved to Verto-It [https://www.verto-it.com](https://www.verto-it.com)
 
 
 # xrechnungviewer
